@@ -1,3 +1,5 @@
+# The Sardinas-Patterson Algorithm
+
 The notebook in this repo contains definitions relating to unique decodability and functions which check a code 
 (presented as a set of code-words) for unique decodability using the Sardinas-Patterson Algorithm.
 
